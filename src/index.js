@@ -1,2 +1,2 @@
-const name = "施后友"
-let age = 18
+const name = "李二娃"
+let age = 20
